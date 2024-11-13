@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Coding gif" style="pointer-events: none;" />
+<img display="flex" justify-content="center" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Coding gif" style="pointer-events: none;" />
 
 # Libft
 
