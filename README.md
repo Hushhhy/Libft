@@ -1,11 +1,11 @@
 # Libft - Your Very First Own Library
 
-![cover](cover.png)
+![cover](assets/cover.png)
 
 *This project has been created as part of the 42 curriculum by acarpent.*
 
 <p align="center">
-  <img src="libftm.png" alt="Badge">
+  <img src="assets/libftm.png" alt="Badge">
 </p>
 
 ---
